@@ -1,0 +1,7 @@
+D:\Working\SPKOnlineOLPContest\SPKOnlineOLPContest\obj\Release\ResolveAssemblyReference.cache
+D:\Working\SPKOnlineOLPContest\SPKOnlineOLPContest\bin\SPKOnlineOLPContest.dll
+D:\Working\SPKOnlineOLPContest\SPKOnlineOLPContest\bin\SPKOnlineOLPContest.pdb
+D:\Working\SPKOnlineOLPContest\SPKOnlineOLPContest\obj\Release\SPKOnlineOLPContest.dll
+D:\Working\SPKOnlineOLPContest\SPKOnlineOLPContest\obj\Release\SPKOnlineOLPContest.pdb
+D:\Working\SPKOnlineOLPContest\SPKOnlineOLPContest\bin\DataAccess.dll
+D:\Working\SPKOnlineOLPContest\SPKOnlineOLPContest\bin\DataAccess.pdb

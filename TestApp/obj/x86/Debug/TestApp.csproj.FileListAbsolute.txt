@@ -1,0 +1,5 @@
+D:\Working\SPKOnlineOLPContest\TestApp\bin\Debug\TestApp.exe
+D:\Working\SPKOnlineOLPContest\TestApp\bin\Debug\TestApp.pdb
+D:\Working\SPKOnlineOLPContest\TestApp\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Working\SPKOnlineOLPContest\TestApp\obj\x86\Debug\TestApp.exe
+D:\Working\SPKOnlineOLPContest\TestApp\obj\x86\Debug\TestApp.pdb

@@ -1,0 +1,12 @@
+C:\Users\QuangNgoc\Documents\Visual Studio 2010\Projects\SPKOnlineOLPContest\SPKOnlineOLPContest\bin\SPKOnlineOLPContest.dll
+C:\Users\QuangNgoc\Documents\Visual Studio 2010\Projects\SPKOnlineOLPContest\SPKOnlineOLPContest\bin\SPKOnlineOLPContest.pdb
+C:\Users\QuangNgoc\Documents\Visual Studio 2010\Projects\SPKOnlineOLPContest\SPKOnlineOLPContest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\QuangNgoc\Documents\Visual Studio 2010\Projects\SPKOnlineOLPContest\SPKOnlineOLPContest\obj\Debug\SPKOnlineOLPContest.dll
+C:\Users\QuangNgoc\Documents\Visual Studio 2010\Projects\SPKOnlineOLPContest\SPKOnlineOLPContest\obj\Debug\SPKOnlineOLPContest.pdb
+D:\Working\SPKOnlineOLPContest\SPKOnlineOLPContest\bin\SPKOnlineOLPContest.dll
+D:\Working\SPKOnlineOLPContest\SPKOnlineOLPContest\bin\SPKOnlineOLPContest.pdb
+D:\Working\SPKOnlineOLPContest\SPKOnlineOLPContest\obj\Debug\ResolveAssemblyReference.cache
+D:\Working\SPKOnlineOLPContest\SPKOnlineOLPContest\obj\Debug\SPKOnlineOLPContest.dll
+D:\Working\SPKOnlineOLPContest\SPKOnlineOLPContest\obj\Debug\SPKOnlineOLPContest.pdb
+D:\Working\SPKOnlineOLPContest\SPKOnlineOLPContest\bin\DataAccess.dll
+D:\Working\SPKOnlineOLPContest\SPKOnlineOLPContest\bin\DataAccess.pdb
