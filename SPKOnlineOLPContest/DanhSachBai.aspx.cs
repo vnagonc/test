@@ -19,15 +19,16 @@ namespace SPKOnlineOLPContest
                     drDoKho.Items.Add(new ListItem(Enum.GetName(typeof(DoKho), doKho), doKho.ToString()));
                 }
                 IBaiDA baiDA = Setting.DaFactory.GetBaiDA();
+                //IBaiDA baiDA = new DataAccess.InMemory.BaiDA();
                 List<Bai> dsBai = baiDA.LayTatCa();
                 GridView1.DataSource = dsBai;
-                DataBind();
+                DataBind(); 
             }
         }
-
+        
         protected void btnDoKho_Click(object sender, EventArgs e)
         {
-            GridView1.DataSource = Setting.DaFactory.GetBaiDA().LayTheoDoKho((DoKho)Enum.Parse(typeof(DoKho), drDoKho.SelectedItem.Value, true));
+            GridView1.DataSource = Setting.DaFactory.GetBaiDA().LayTheoDoKho(((DoKho)Enum.Parse(typeof(DoKho), drDoKho.SelectedItem.Value, true)));
             DataBind();
         }
         

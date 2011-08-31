@@ -3,3 +3,8 @@ D:\Working\SPKOnlineOLPContest\TestApp\bin\Release\TestApp.pdb
 D:\Working\SPKOnlineOLPContest\TestApp\obj\x86\Release\ResolveAssemblyReference.cache
 D:\Working\SPKOnlineOLPContest\TestApp\obj\x86\Release\TestApp.exe
 D:\Working\SPKOnlineOLPContest\TestApp\obj\x86\Release\TestApp.pdb
+D:\Studies\Studies\SPKOnlineOLPContest\SPKOnlineOLPContest\TestApp\bin\Release\TestApp.exe
+D:\Studies\Studies\SPKOnlineOLPContest\SPKOnlineOLPContest\TestApp\bin\Release\TestApp.pdb
+D:\Studies\Studies\SPKOnlineOLPContest\SPKOnlineOLPContest\TestApp\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Studies\Studies\SPKOnlineOLPContest\SPKOnlineOLPContest\TestApp\obj\x86\Release\TestApp.exe
+D:\Studies\Studies\SPKOnlineOLPContest\SPKOnlineOLPContest\TestApp\obj\x86\Release\TestApp.pdb

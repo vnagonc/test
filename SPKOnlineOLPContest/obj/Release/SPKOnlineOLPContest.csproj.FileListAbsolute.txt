@@ -5,3 +5,17 @@ D:\Working\SPKOnlineOLPContest\SPKOnlineOLPContest\obj\Release\SPKOnlineOLPConte
 D:\Working\SPKOnlineOLPContest\SPKOnlineOLPContest\obj\Release\SPKOnlineOLPContest.pdb
 D:\Working\SPKOnlineOLPContest\SPKOnlineOLPContest\bin\DataAccess.dll
 D:\Working\SPKOnlineOLPContest\SPKOnlineOLPContest\bin\DataAccess.pdb
+D:\Studies\Studies\SPKOnlineOLPContest\SPKOnlineOLPContest\SPKOnlineOLPContest\obj\Release\ResolveAssemblyReference.cache
+D:\Studies\Studies\SPKOnlineOLPContest\SPKOnlineOLPContest\SPKOnlineOLPContest\obj\Release\SPKOnlineOLPContest.dll
+D:\Studies\Studies\SPKOnlineOLPContest\SPKOnlineOLPContest\SPKOnlineOLPContest\bin\SPKOnlineOLPContest.dll
+D:\Studies\Studies\SPKOnlineOLPContest\SPKOnlineOLPContest\SPKOnlineOLPContest\bin\SPKOnlineOLPContest.pdb
+D:\Studies\Studies\SPKOnlineOLPContest\SPKOnlineOLPContest\SPKOnlineOLPContest\bin\DataAccess.dll
+D:\Studies\Studies\SPKOnlineOLPContest\SPKOnlineOLPContest\SPKOnlineOLPContest\bin\DataAccess.pdb
+D:\Studies\Studies\SPKOnlineOLPContest\SPKOnlineOLPContest\SPKOnlineOLPContest\obj\Release\SPKOnlineOLPContest.pdb
+D:\Working\MyLove\qtuhaunvgannoc\SPKOnlineOLPContest\SPKOnlineOLPContest\SPKOnlineOLPContest\bin\SPKOnlineOLPContest.dll
+D:\Working\MyLove\qtuhaunvgannoc\SPKOnlineOLPContest\SPKOnlineOLPContest\SPKOnlineOLPContest\bin\SPKOnlineOLPContest.pdb
+D:\Working\MyLove\qtuhaunvgannoc\SPKOnlineOLPContest\SPKOnlineOLPContest\SPKOnlineOLPContest\bin\DataAccess.dll
+D:\Working\MyLove\qtuhaunvgannoc\SPKOnlineOLPContest\SPKOnlineOLPContest\SPKOnlineOLPContest\bin\DataAccess.pdb
+D:\Working\MyLove\qtuhaunvgannoc\SPKOnlineOLPContest\SPKOnlineOLPContest\SPKOnlineOLPContest\obj\Release\ResolveAssemblyReference.cache
+D:\Working\MyLove\qtuhaunvgannoc\SPKOnlineOLPContest\SPKOnlineOLPContest\SPKOnlineOLPContest\obj\Release\SPKOnlineOLPContest.dll
+D:\Working\MyLove\qtuhaunvgannoc\SPKOnlineOLPContest\SPKOnlineOLPContest\SPKOnlineOLPContest\obj\Release\SPKOnlineOLPContest.pdb

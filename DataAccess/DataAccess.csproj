@@ -47,7 +47,7 @@
     <Compile Include="Implement\Access\BaiDA.cs" />
     <Compile Include="Implement\Access\AccessDataAccessFactory.cs" />
     <Compile Include="Implement\Memory\BaiDA.cs" />
-    <Compile Include="Implement\Memory\InMemoryDataAccessFactory.cs" />
+    <Compile Include="Implement\Memory\DataAccessFactory.cs" />
     <Compile Include="Implement\Memory\KyThiDA.cs" />
     <Compile Include="Implement\Memory\MemoryDatabase.cs" />
     <Compile Include="KyThi.cs" />
@@ -57,6 +57,10 @@
     <Compile Include="Test.cs" />
     <Compile Include="User.cs" />
     <Compile Include="TrangThaiBienDich.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="ClassDiagram2.cd" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

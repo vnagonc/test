@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using DataAccess.InMemory;
 
 namespace DataAccess.Implement.Memory
 {
@@ -11,12 +12,18 @@ namespace DataAccess.Implement.Memory
 
         public KyThi LayTheoMa(int id)
         {
-            throw new NotImplementedException();
+            return InMemoryDatabase.KyThiTable[id];
+           // throw new NotImplementedException();
         }
 
         public List<KyThi> LayTatCa()
         {
-            throw new NotImplementedException();
+
+            //throw new NotImplementedException();
+            List<KyThi> dsKyThi = new List<KyThi>();
+            foreach (KyThi kt in InMemoryDatabase.KyThiTable.Values)
+                dsKyThi.Add(kt);
+            return dsKyThi;
         }
 
         public int Them(KyThi obj)

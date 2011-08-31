@@ -7,5 +7,6 @@ namespace DataAccess
 {
     public interface IKyThiDA:IBaseDA <KyThi,int>
     {
+        KyThi LayTheoMa(int p);
     }
 }

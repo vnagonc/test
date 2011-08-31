@@ -48,6 +48,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="DanhSachBai.aspx" />
+    <Content Include="DanhSachKyThi.aspx" />
     <Content Include="Default.aspx" />
     <Content Include="Scripts\jquery-1.4.1-vsdoc.js" />
     <Content Include="Scripts\jquery-1.4.1.js" />
@@ -67,6 +68,13 @@
     </Compile>
     <Compile Include="DanhSachBai.aspx.designer.cs">
       <DependentUpon>DanhSachBai.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DanhSachKyThi.aspx.cs">
+      <DependentUpon>DanhSachKyThi.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DanhSachKyThi.aspx.designer.cs">
+      <DependentUpon>DanhSachKyThi.aspx</DependentUpon>
     </Compile>
     <Compile Include="Default.aspx.cs">
       <SubType>ASPXCodeBehind</SubType>

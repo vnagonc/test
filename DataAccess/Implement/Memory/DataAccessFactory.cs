@@ -4,7 +4,7 @@ using System.Text;
 using DataAccess;
 using DataAccess.Implement.Memory;
 
-namespace DataAccess.Access
+namespace DataAccess.InMemory
 {
     public class DataAccessFactory:IDataAccessFactory
     {
@@ -14,10 +14,12 @@ namespace DataAccess.Access
         {
             return new BaiDA();
         }
+
+        #endregion
         public IKyThiDA GetKyThiDA()
         {
             return new KyThiDA();
         }
-        #endregion
     }
+
 }

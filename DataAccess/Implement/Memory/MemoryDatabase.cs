@@ -85,5 +85,13 @@ namespace DataAccess.InMemory
                 return (Dictionary<int, Bai>)DataBase["Bai"];
             }
         }
+        public static Dictionary<int, KyThi> KyThiTable
+        {
+            get
+            {
+       
+                return (Dictionary<int, KyThi>)DataBase["KyThi"];
+            }
+        }
     }
 }

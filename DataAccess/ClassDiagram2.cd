@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DataAccess.Bai" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACCAAAAAgABIAgAAAACAAAAIAARIAAAAAAAAAAA=</HashCode>
+      <FileName>Bai.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataAccess.BailamThiSinh" Collapsed="true">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAgAAAIAAAAgQBAAAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BaiLam.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataAccess.KyThi" Collapsed="true">
+    <Position X="10.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAEAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>KyThi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataAccess.Setting">
+    <Position X="1.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Setting.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataAccess.Test" Collapsed="true">
+    <Position X="8.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAgAAAAAAIAAAAEAAAAAAAAAAAAAAJAAA=</HashCode>
+      <FileName>Test.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataAccess.User" Collapsed="true">
+    <Position X="10.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAQAQAAEAAAACAAAAACAAAAIAAAAAA=</HashCode>
+      <FileName>User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataAccess.Access.DataAccessFactory" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Implement\Access\AccessDataAccessFactory.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="DataAccess.Access.BaiDA" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAEAAgAAAAAAAAAgAAAAAABAAAAAggAAAAAAAAAAAAA=</HashCode>
+      <FileName>Implement\Access\BaiDA.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.274" Collapsed="true" />
+  </Class>
+  <Class Name="DataAccess.InMemory.BaiDA" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAEAAgAAAAAAAAAgAAAAAABAAAAAggAAAAAAAAAAAAA=</HashCode>
+      <FileName>Implement\Memory\BaiDA.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="DataAccess.InMemory.DataAccessFactory" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Implement\Memory\DataAccessFactory.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="DataAccess.InMemory.InMemoryDatabase">
+    <Position X="3" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAACBAAAGAAAABAAAAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Implement\Memory\MemoryDatabase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataAccess.Implement.Memory.KyThiDA" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAEAAAAAAAAAAAAgAAAAAABAAAAAggAAAAAAAAAAAAA=</HashCode>
+      <FileName>Implement\Memory\KyThiDA.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Interface Name="DataAccess.IBaiDA">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Abstract\IBaiDA.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="DataAccess.IBaseDA&lt;T, TKey&gt;">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAEAAAAAAAAAAAAgAAAAAABAAAAAggAAAAAAAAAAAAA=</HashCode>
+      <FileName>Abstract\IBaseDA.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="DataAccess.IDataAccessFactory" Collapsed="true">
+    <Position X="5.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Abstract\IDataAccessFactory.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="DataAccess.IKyThiDA" Collapsed="true">
+    <Position X="3" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Abstract\IKyThiDA.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="DataAccess.DoKho" Collapsed="true">
+    <Position X="5.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAACAAAEAAAAAAQAAAAAAAIAQAAAAAAA=</HashCode>
+      <FileName>DoKho.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="DataAccess.QuyenDownload" Collapsed="true">
+    <Position X="7" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAEAAAI=</HashCode>
+      <FileName>QuyenDownload.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="DataAccess.TrangThaiBienDich" Collapsed="true">
+    <Position X="8.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAgAIAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TrangThaiBienDich.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
